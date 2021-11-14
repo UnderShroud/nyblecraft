@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "header": "First note",
+      "content": "Bla-bla #nice",
+      "id": 1
+    },
+    {
+      "header": "First note",
+      "content": "Bla-bla #nice",
+      "id": 2
+    },
+    {
+      "header": "First note",
+      "content": "Bla-bla #nice",
+      "id": 3
+    },
+    {
+      "header": "Last note",
+      "content": "Bla-bla #nice",
+      "tags": ["nice", "bla"],
+      "id": 4
+    }
+  ]
+}
